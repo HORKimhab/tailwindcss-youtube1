@@ -1,0 +1,17 @@
+{
+  "name": "tailwindcss-youtube1",
+  "version": "1.0.0",
+  "description": "tailwindcss-youtube2",
+  "main": "index.js",
+  "scripts": {
+    "test": "tailwindcss "
+  },
+  "keywords": [
+    "tailwindcss"
+  ],
+  "author": "HKimhab",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^2.0.3"
+  }
+}
