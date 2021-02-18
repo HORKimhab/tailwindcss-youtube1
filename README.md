@@ -7,3 +7,7 @@ In this tailwind css tutorial we'll take a look at what tailwind css is, how to 
 Author: The Net Ninja 
 
 Source: **[tailwindcss-youtube1](https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)**
+
+npx tailwindcss init 
+
+https://tailwindcss.com/docs/guides/laravel#install-tailwind-via-npm
