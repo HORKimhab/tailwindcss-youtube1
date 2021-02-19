@@ -17,3 +17,7 @@ npx tailwindcss init --full
 https://bit.ly/2M12r7w
 
 https://tailwindcss.com/docs/guides/laravel#install-tailwind-via-npm
+
+customize in tailwind.config.js ->run this code 'build-css' in package.json
+
+customize a new tailwind.config.js -> npx tailwindcss init -> add value in tailwind.config.js 
